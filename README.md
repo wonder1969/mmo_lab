@@ -14,5 +14,7 @@
 ---
 [Лабораторная работа 4](https://github.com/wonder1969/mmo_lab/tree/master/Lab4)
 ---
+[Лабораторная работа 5](https://github.com/wonder1969/mmo_lab/tree/master/Lab5)
+---
 [Рубежный контроль 1](https://github.com/wonder1969/mmo_lab/tree/master/RK1)
 ---
