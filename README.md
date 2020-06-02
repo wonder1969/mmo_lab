@@ -22,3 +22,5 @@
 ---
 [Рубежный контроль 2](https://github.com/wonder1969/mmo_lab/tree/master/RK2)
 ---
+[Домашнее задание](https://github.com/wonder1969/mmo_lab/tree/master/HomeWork)
+---
