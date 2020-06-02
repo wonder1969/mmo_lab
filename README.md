@@ -20,3 +20,5 @@
 ---
 [Рубежный контроль 1](https://github.com/wonder1969/mmo_lab/tree/master/RK1)
 ---
+[Рубежный контроль 2](https://github.com/wonder1969/mmo_lab/tree/master/RK2)
+---
